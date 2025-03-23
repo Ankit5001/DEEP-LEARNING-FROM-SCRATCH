@@ -1,0 +1,74 @@
+cuda
+Total parameter: 1599668
+  0%|          | 0/10001 [00:00<?, ?it/s]
+EPOCH : 0 || LOSS : 4.37885046005249 
+  0%|          | 4/10001 [00:00<21:13,  7.85it/s]  
+dio.i iD
+ursEb,uOHaFsRi
+hLs fTPdffzPofPoOy P
+a.'Vq
+ 20%|█▉        | 1999/10001 [01:15<05:04, 26.26it/s]
+EPOCH : 2000 || LOSS : 0.45741698145866394 
+ 20%|██        | 2005/10001 [01:15<09:46, 13.62it/s]
+Hope is the blessing and repare for a better futur
+ 30%|██▉       | 2998/10001 [01:52<04:06, 28.41it/s]
+EPOCH : 3000 || LOSS : 0.3687121570110321 
+ 30%|███       | 3004/10001 [01:52<08:07, 14.36it/s]
+The pen is mightier than the sword.
+There's no pla
+ 40%|███▉      | 4000/10001 [02:29<03:36, 27.74it/s]
+EPOCH : 4000 || LOSS : 0.3397854268550873 
+ 40%|████      | 4006/10001 [02:30<06:55, 14.44it/s]
+Give credit is due.
+Great minds think alike.
+He wh
+ 50%|████▉     | 4999/10001 [03:05<02:57, 28.22it/s]
+EPOCH : 5000 || LOSS : 0.3062203526496887 
+ 50%|█████     | 5005/10001 [03:06<05:52, 14.17it/s]
+Aher allow our bodies and minds to heal and rejuve
+ 60%|█████▉    | 5998/10001 [03:42<02:21, 28.25it/s]
+EPOCH : 6000 || LOSS : 0.3039809465408325 
+ 60%|██████    | 6004/10001 [03:43<04:57, 13.44it/s]
+Pride goes before a fall.
+The squeaky wheel gets t
+ 70%|██████▉   | 7000/10001 [04:19<01:45, 28.56it/s]
+EPOCH : 7000 || LOSS : 0.3227649927139282 
+ 70%|███████   | 7006/10001 [04:20<03:26, 14.53it/s]
+The night is a time for dreams and hopes.
+We dream
+ 80%|███████▉  | 7999/10001 [04:55<01:10, 28.52it/s]
+EPOCH : 8000 || LOSS : 0.3188084661960602 
+ 80%|████████  | 8005/10001 [04:55<02:17, 14.49it/s]
+The air cools, a gentle breeze rustling th an plac
+ 90%|████████▉ | 8998/10001 [05:31<00:35, 28.43it/s]
+EPOCH : 9000 || LOSS : 0.3184058666229248 
+ 90%|█████████ | 9004/10001 [05:32<01:08, 14.57it/s]
+The world is quiet, a peaceful hush settling over 
+100%|█████████▉| 10000/10001 [06:08<00:00, 24.22it/s]
+EPOCH : 10000 || LOSS : 0.3061392605304718 
+100%|██████████| 10001/10001 [06:08<00:00, 27.11it/s]
+Twilight descends, casting long shadows across the
+
+The sun dips below the horizon and embrace the world.
+We seek to create a world of justice and equality.
+Everyone deserves to be treated with respect and dignity.
+We must embrace diversue.
+We must beade worm.
+Mope for the best, prepare for the worst.
+Ignorance is bliss.
+It's a small world after all.
+Kill two birds with one stone.
+Live and learn.
+Look before you leap.
+Make hay whil good things must come to an end.
+Don't cross your bridges before you come ivers nalm in the darkness.
+We let go of our worries and embrace the present moment.
+The night is a time for peace and tranquility.
+We find serenity in the stillness and calm in the darkness.
+We let go of our worries and embrace the world.
+Stars twinkle in the night sky and light the darkness.
+The night is a time for gratitude and appreciation.
+We are thankful for our families and our friends.
+We are grateful for the opportunities that life has given us.
+The night is a time for gratitude and appreciation.
+We are thankful for our familie
